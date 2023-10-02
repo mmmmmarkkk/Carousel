@@ -1,0 +1,6 @@
+name: Carousel
+version: '${project.version}'
+main: org.mmmmarkkk.carousel.Main
+commands:
+  carousel:
+    description: "Create a carousel"
